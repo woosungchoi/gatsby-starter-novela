@@ -1,7 +1,7 @@
 ---
 title: Gatsby js로 만든 첫번째 글입니다.
 author: WoosungChoi
-date: 2020-06-17
+date: 2020-06-16
 hero: ./images/hero.jpg
 excerpt: 드디어 가츠비로 블로그를 만들어서 글을 작성해봅니다. Nextjs로 만들때는 하나하나가 힘들었는데, 그새 짬이 생겨서 이것도 편해졌네요.
 ---
