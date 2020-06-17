@@ -10,10 +10,10 @@ import React from 'react';
 export default function Logo({ fill }) {
   return (
 	<svg height="35" width="35">
-	  <g fill="none" stroke="black" stroke-width="2">
-		<path stroke-linecap="butt" d="M5 10 l215 0" />
-		<path stroke-linecap="butt" d="M5 20 l215 0" />
-		<path stroke-linecap="butt" d="M5 30 l215 0" />
+	  <g fill="none" stroke="gray" strokeWidth="2">
+		<path strokeLinecap="butt" d="M5 10 l215 0" />
+		<path strokeLinecap="butt" d="M5 20 l215 0" />
+		<path strokeLinecap="butt" d="M5 30 l215 0" />
 	  </g>
     </svg>
   );
