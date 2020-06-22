@@ -9,10 +9,6 @@ import React from 'react';
  */
 export default function Logo({ fill }) {
   return (
-	<svg width="35" height="35">
-  		<rect width="35" height="35" style="fill:gray" />
-  		<text fill="#ffffff" font-size="25" font-family="Verdana" x="5" y="27">
-  		W</text>
-	</svg>
+	<svg width="35" height="35"><rect width="35" height="35" style="fill:gray" /><text fill="#ffffff" font-size="25" font-family="Verdana" x="5" y="27">W</text></svg>
   );
 }
