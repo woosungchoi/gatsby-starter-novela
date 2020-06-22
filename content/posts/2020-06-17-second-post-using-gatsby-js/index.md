@@ -3,6 +3,7 @@ title: 확실히 잘 만들어진 theme를 쓰니 편합니다.
 author: WoosungChoi
 date: 2020-06-17
 hero: ./images/hero.jpg
+slug: second-post-using-gatsby-js
 excerpt: 기본적으로 필요한 내용들이 다 구성되어 있기 때문에 큰 고민없이 글을 쓸 수 있습니다.
 ---
 
