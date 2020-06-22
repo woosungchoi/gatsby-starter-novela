@@ -3,6 +3,7 @@ title: 이 블로그는 Narative의 Novela 테마입니다.
 author: WoosungChoi
 date: 2020-06-15
 hero: ./images/hero.jpg
+slug: my-first-post-using-novela-by-narative
 excerpt: With the growing community interest in Gatsby, we hope to create more resources that make it easier for anyone to grasp the power of this incredible tool.
 ---
 
