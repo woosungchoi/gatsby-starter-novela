@@ -9,9 +9,9 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
-    "@narative/gatsby-theme-novela": "0.16.5",
-    "gatsby": "2.23.11",
-    "gatsby-plugin-manifest": "2.4.14",
+    "@narative/gatsby-theme-novela": "0.16.4",
+    "gatsby": "2.24.10",
+    "gatsby-plugin-manifest": "2.4.20",
     "react": "16.13.1",
     "react-dom": "16.13.1"
   }
